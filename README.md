@@ -1,17 +1,5 @@
-# testRepo
-This is orginally the third line all by it's lonesome self.
-#Remove the original second line
-
-#LET"S ADD in a new paragraph.  THis is feature 1
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-bla bla bla bla blabla bla bla bla bla 
-bla bla bla bla bla bla bla bla bla bla 
-bla bla bla bla bla /*there was a missing space here and needed to be added*/
-bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
-bla bla bla bla bla bla bla bla bla bla
-bla bla bla bla bla
-bla bla bla bla bla
-bla bla bla bla bla
-bla bla bla bla bla
- bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+This is a sample web-app using the Python Flask Server.  
+The code shows the functionality of:
+ 1) The folder structure to use .js and .html files in Flask
+ 2) How how to submit HTTP Post commands
+ 3) How to tell the python backend to accecpt and parse the user POST
